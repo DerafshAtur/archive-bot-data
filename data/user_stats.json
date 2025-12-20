@@ -28,5 +28,23 @@
         "archive_created_by": 6001769473
       }
     ]
+  },
+  "8350594375": {
+    "user_id": 8350594375,
+    "username": "AmirKhafanasli",
+    "first_name": "امیرخفن",
+    "last_name": null,
+    "phone_number": null,
+    "access_count": 1,
+    "first_access": "2025-12-20T15:00:37.839869",
+    "last_access": "2025-12-20T15:00:37.839884",
+    "accessed_codes": [
+      {
+        "code": "fwrs9aez6q8m",
+        "accessed_at": "2025-12-20T15:00:37.839885",
+        "archive_created_at": "2025-12-20T11:12:40.836155",
+        "archive_created_by": 6001769473
+      }
+    ]
   }
 }
