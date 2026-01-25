@@ -5,9 +5,9 @@
     "first_name": "D 3 R 4 F 5 H",
     "last_name": null,
     "phone_number": null,
-    "access_count": 28,
+    "access_count": 29,
     "first_access": "2025-12-20T11:15:47.379809",
-    "last_access": "2026-01-24T21:44:22.617292",
+    "last_access": "2026-01-25T12:43:24.128669",
     "accessed_codes": [
       {
         "code": "fwrs9aez6q8m",
@@ -175,6 +175,12 @@
         "code": "dst9sssnel9u",
         "accessed_at": "2026-01-24T21:44:22.617301",
         "archive_created_at": "2026-01-24T21:42:54.508490",
+        "archive_created_by": 6001769473
+      },
+      {
+        "code": "evnspv3sccsy",
+        "accessed_at": "2026-01-25T12:43:24.128688",
+        "archive_created_at": "2026-01-23T00:57:04.889400",
         "archive_created_by": 6001769473
       }
     ]
