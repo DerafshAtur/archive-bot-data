@@ -340,5 +340,23 @@
         "archive_created_by": 6001769473
       }
     ]
+  },
+  "7587014839": {
+    "user_id": 7587014839,
+    "username": "Vulture_White",
+    "first_name": "ᴠᴜʟᴛᴜʀᴇ",
+    "last_name": null,
+    "phone_number": null,
+    "access_count": 1,
+    "first_access": "2026-01-25T00:41:56.066487",
+    "last_access": "2026-01-25T00:41:56.066516",
+    "accessed_codes": [
+      {
+        "code": "dst9sssnel9u",
+        "accessed_at": "2026-01-25T00:41:56.066518",
+        "archive_created_at": "2026-01-24T21:42:54.508490",
+        "archive_created_by": 6001769473
+      }
+    ]
   }
 }
