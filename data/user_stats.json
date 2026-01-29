@@ -341,9 +341,9 @@
     "first_name": "payam",
     "last_name": null,
     "phone_number": null,
-    "access_count": 6,
+    "access_count": 7,
     "first_access": "2026-01-23T07:31:53.228412",
-    "last_access": "2026-01-29T06:33:23.211597",
+    "last_access": "2026-01-29T06:36:21.553208",
     "accessed_codes": [
       {
         "code": "f21lpbcj7rlo",
@@ -379,6 +379,12 @@
         "code": "t4x9r9ast9mv",
         "accessed_at": "2026-01-29T06:33:23.211608",
         "archive_created_at": "2026-01-20T23:57:45.917152",
+        "archive_created_by": 6001769473
+      },
+      {
+        "code": "9v7jbf60urox",
+        "accessed_at": "2026-01-29T06:36:21.553225",
+        "archive_created_at": "2026-01-23T00:55:44.542524",
         "archive_created_by": 6001769473
       }
     ]
